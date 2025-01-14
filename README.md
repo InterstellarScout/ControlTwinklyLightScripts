@@ -1,6 +1,6 @@
 # Overview
 Twinkly lights are pretty, dude. They sparkle, and emanate stellar rainbow vortexes. I just wanna jump right in to see what other worlds aren't burning. In these times of glorious challenges and *relative* peacefulness (and let's keep it that way), we must remember that technology lets to do amazing things. What's one amazing thing? Lights. MMMmmm. Crisp and vibrant effects to occationally admire. Twinkly makes really pretty lights so I can float in peace vibes.
-But Twinkly... one tiny teetensy witte problem....
+But Twinkly... one tiny teetensy wittle problem....
 
 *Leans in, beaconing Twinkly* Dear Twinkly devs, come on. Dudes... My dudes, please. I need an API for these thing. Please? Any excuse to put on some fat is a good one. I have been working all day and just want to press a button and BAM, EFFECT! Maybe even a Streamdeck app? Now I'm asking for too much, so let's just start simple. An API. Just a login? Look, I'm only a little desperate for more conveniences in my life, so a simple API through you would just make me sooooo happy. If I google search "Twinkly API" and find a forum saying "We don't have one," implying others do, I get sad. We don't like sad. Ideally I just find it, I want to feel nothing. Just nothing. An easy path to a button press of dopamine is all I'm asking for. A simple API. Pretty please? Then at a push of a button, I can breathe centering breaths and pretend that this is fine. 
 Just "Choose from effects on deviceX" and BAM. 
