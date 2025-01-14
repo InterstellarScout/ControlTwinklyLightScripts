@@ -158,22 +158,26 @@ function Set-Color {
     }
 }
 
-# Example usage
-$ip = "192.168.68.175"
-$token = Get-AuthenticationToken -IpAddress $ip
+# Define the list of IP addresses
+$ipAddresses = @("192.168.68.176", "192.168.68.175", "192.168.68.158", "192.168.68.143")  # Add more IPs as needed
 
-if ($token) {
-    $isVerified = Verify-AuthenticationToken -IpAddress $ip -AuthToken $token
-    if ($isVerified) {
-        $setColor = Set-Color -IpAddress $ip -AuthToken $token -Red 255 -Green 0 -Blue 0 -Brightness 100
-        if ($setColor) {
-            Write-Output "Color configuration was successfully applied!"
-        } else {
-            Write-Warning "Failed to set the color configuration."
-        }
-    } else {
-        Write-Warning "Token verification failed. Cannot proceed with setting the color."
-    }
-} else {
-    Write-Error "Failed to retrieve authentication token."
+foreach ($ip in $ipAddresses) {
+    Write-Output "Processing IP: $ip"
+	$token = Get-AuthenticationToken -ip $ip
+
+	if ($token) {
+		$isVerified = Verify-AuthenticationToken -IpAddress $ip -AuthToken $token
+		if ($isVerified) {
+			$setColor = Set-Color -IpAddress $ip -AuthToken $token -Red 255 -Green 0 -Blue 0 -Brightness 100
+			if ($setColor) {
+				Write-Output "Color configuration was successfully applied!"
+			} else {
+				Write-Warning "Failed to set the color configuration."
+			}
+		} else {
+			Write-Warning "Token verification failed. Cannot proceed with setting the color."
+		}
+	} else {
+		Write-Error "Failed to retrieve authentication token."
+	}
 }

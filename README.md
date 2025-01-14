@@ -71,6 +71,12 @@ Powershell 7 for V2 scripts. Link to latest PowerShell Releases: [Link to PowerS
 5. For each button in the Stream Deck App, paste "Start Process" button, and then point it to the script.
 6. Repeat for each script.
 
+# Tips for making effects
+1. Device 11 Character Name Limit: If your effect name is longer, use only the first 11 characters when referencing them in the scripts. For example, the name of Lava Sparkle in the device is "Lava Sparkl"
+2. Choose effects widly: Currently you cannot delete effects that exist on device that were created before the latest effect. You must delete all the way back in time to remove it. 
+3. Be careful with your device. Effects are device based and cannot be backed up nor used or edited across devices. (TWINKLY FIX THISS!!!!)
+
+
 # Resources
 This API documentation *mostly* works for these lights. [Link to XLED Docs](https://xled-docs.readthedocs.io/en/latest/rest_api.html#get-led-movie-config)
 
@@ -78,6 +84,8 @@ This API documentation *mostly* works for these lights. [Link to XLED Docs](http
 # To do eventually (or not) list
 - V1 scripts aren't fast, and I'm pretty sure there's a way to start processes so they trigger all at once, but that's gonna take more effort. For each process being kicked off, I need to add the function, effectively moving all the above functions into the whole script.
 	For each....
+- A script to show you the movies installed on each. Also output information about them like name and type.
+- Add a retry after all of them have ran for those that failed. 
 - Make the colors accept command line input to take the rgb color values. 
 - Make the effects accept command line input to take the effect names.
 - Have scripts use a config file for IP Addresses and effects(?)
