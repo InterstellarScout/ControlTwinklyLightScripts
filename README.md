@@ -1,22 +1,22 @@
 # Overview
-Twinkly lights are pretty, dude. They sparkle, and emanate stellar rainbow vortexes. I just wanna jump right in to see what other world aren't burning. In these times of glorious challenges and *relative* peacefulness (and let's keep it that way), we must remember that technology lets to do amazing things. Light make really pretty lights so I can float in peace vibes.
-But Twinkly...
+Twinkly lights are pretty, dude. They sparkle, and emanate stellar rainbow vortexes. I just wanna jump right in to see what other world aren't burning. In these times of glorious challenges and *relative* peacefulness (and let's keep it that way), we must remember that technology lets to do amazing things. What's one amazing thing? Lights. MMMmmm. Crisp and vibrant effects to occationally admire. Twinkly makes really pretty lights so I can float in peace vibes.
+But Twinkly... one tiny teetensy witte problem....
 
-*Leans in, beaconing Twinkly* Dear Twinkly devs, come on. Dudes... My dudes, please. I need an API. Please? I need an excuse to put on some fat, my dudes. I been working all day. I just want a Streamdeck app. I just want to place a button on there and see it happen. Just a login. Maybe even an API? A simple api. Pretty please? Then at a push of a button, I can breathe centering breaths and pretend that this is fine. 
+*Leans in, beaconing Twinkly* Dear Twinkly devs, come on. Dudes... My dudes, please. I need an API for these thing. Please? Any excuse to put on some fat is a good one. I have been working all day and just want to press a button and BAM, EFFECT! Maybe even a Streamdeck app? Now I'm asking for too much, so let's just start simple. An API. Just a login? Look, I'm only a little desperate for more conveniences in my life, so a simple API through you would just make me sooooo happy. If I google search "Twinkly API" and find a forum saying "We don't have one," implying others do, I get sad. We don't like sad. Ideally I just find it, I want to feel nothing. Just nothing. An easy path to a button press of dopamine is all I'm asking for. A simple API. Pretty please? Then at a push of a button, I can breathe centering breaths and pretend that this is fine. 
 Just "Choose from effects on deviceX" and BAM. 
 Imagine that.
 Imagine being a gamer, then tapping a button.
 BAM
-Rainbow Vortex. WEEEEEE.
+Rainbow Vortex. 
+WEEEEEE!!!
 Another button.
 BAM
-FIRE BACKDROPPP! RAWRRRRR.
+FIRE BACKDROPPP! 
+RAWRRRRR!!!
 Another button.
 Total Darkness.
-```
-## TO DO - Insert Movie Sound Effect of Screaming Here
-```
-*whispers* Love you. You're doing great. Thanks for making my life brighter <3
+....
+*whispers* I Love you. You're doing great. Thanks for making my life brighter <3
 
 IN THE MEAN TIME. SOLUTIONS!
 Well, I efforted because I'm a lazy bastard. I don't want to "Open my phone" and "Open app" and "Devices tab" and "Select device" and "Design Tab" and "Slide over to Favorites" and "Select Favorites" and "Select RainbowVortex" and multiply that times 3, and then notice that it's been 2 minutes, thus thwarting any satisfaction.
